@@ -1,0 +1,25 @@
+# Studentinfo
+As in organizing this session by quine they can use this to store the students details effectively.
+public class Studentinfo (
+
+Student(1).java
+
+public static void main(String] args) 
+{ 
+//Create Array to store Students
+
+Student[] studentArray = new Student [3];
+
+
+for (int 10; 13; 1++) {
+
+Students new Student(); studentArray[i]-s:
+
+
+for (int 1; 13; 1++) {
+
+Students studentArray[1]:
+
+System.out.println(s.getName()+", "+s.getAge()+", "+s.getSex());
+}
+}
